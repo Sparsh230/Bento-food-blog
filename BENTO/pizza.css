@@ -1,0 +1,12 @@
+body{
+    background-image:url(https://tse3.mm.bing.net/th/id/OIP.KNj4PRyOSoOWTbWqzSALhQHaHa?r=0&w=1920&h=1920&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+p{
+    background-color: rgba(185, 49, 49, 0.8);
+    color: black;
+    padding: 12px;
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/050/749/627/non_2x/doodle-sandwich-line-art-seamless-pattern-free-vector.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p{
+    background-color: rgba(246, 183, 25, 0.8);
+    color: black;
+    padding: 12px;
+}
